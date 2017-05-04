@@ -55,12 +55,13 @@
     <None Include="11-FRP.fsx" />
     <None Include="12-BranchingOnResponse.fsx" />
     <None Include="13-Interpreter-v1.fsx" />
-    <None Include="13-Interpreter-v2.fsx" />
+    <None Include="13-Interpreter-v3.fsx" />
     <None Include="Common.fsx" />
     <None Include="FPTurtleLib.fsx" />
     <None Include="FPTurtleLib2.fsx" />
     <None Include="OOTurtleLib.fsx" />
     <None Include="TurtleApiHelpers.fsx" />
+    <None Include="13-Interpreter-v2.fsx" />
   </ItemGroup>
   <PropertyGroup>
     <MinimumVisualStudioVersion Condition="'$(MinimumVisualStudioVersion)' == ''">11</MinimumVisualStudioVersion>
